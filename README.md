@@ -1,1 +1,2 @@
 # odin-recipes
+The current project is making a simple recipes website. Creating this would demonstrate familiarity with HTML, especially the basics on structuring a web page. It would also solidify my ability to use Git, as that's where I'll be running all commands pertaining to this project from.
